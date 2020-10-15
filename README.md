@@ -12,8 +12,8 @@ Play with [demo on my fiddle](https://jsfiddle.net/djibe89/vL87w0j8/).
 
 Several quick start options are available:
 
-- Download the [latest release](https://github.com/Bttstrp/bootstrap-switch/releases/latest)
-- Clone the repo: `git clone https://github.com/Bttstrp/bootstrap-switch.git`
+- Download the [latest release](https://github.com/VolanteSoftware/bootstrap-switch/releases/latest)
+- Clone the repo: `git clone https://github.com/VolanteSoftware/bootstrap-switch.git`
 - Install with npm: `npm install bootstrap-switch`
 - Install with yarn: `yarn add bootstrap-switch`
 - Install with Composer: `composer require components/bootstrap-switch`
